@@ -8,6 +8,8 @@ Tasked with the creation of a Macro in *Visual Basic for Applications* for a cli
 
 ### Data and Modeling Approach 
 The data that I am presenting includes tables, screentshots, and a visual of the refactored code.
+
+
 The two tables(Charts) containing the following information:
 1. Stock information that includes 12 different stocks 
     ( Ticker value 
