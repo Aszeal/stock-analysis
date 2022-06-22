@@ -23,7 +23,7 @@ For this project I will be utilizing two tables(Charts) containing the following
 
 
 
-### Result 
+### Results 
 
 
     tickerIndex = 0
