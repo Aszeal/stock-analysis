@@ -93,13 +93,8 @@ https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/All%2
 
 
 
-## Analysis and Challenges
+## Summary
 
-### Analysis of Outcomes Based on Launch Date
+### Avantages and Disadvantages of refactoring script
 
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
-## Results
-
+### Avantages and Disadvantages of The Original and Refactored VBA Script
