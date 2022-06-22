@@ -27,7 +27,7 @@ The refactored code is showcased to show what imporvements were made to increase
 
 ### Results 
 #### Analysis 
-
+In order to refactor the code I provided with an alternative code that contained useful script information to make adjustments to run the code faster. Also, the code provided the necessary information to create an input box that shows the execution times of the original script and refactored script. Below, is the the completed refactored script. 
 
 
 
