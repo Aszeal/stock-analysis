@@ -105,5 +105,11 @@ Refactoring is something that can be very beneifical for the efficiency of VBA. 
 The advantages for the refactorization of the VBA script is quite overwhelming. Most importantly, it decreased  the run-time more than 50 percent. Based off my research this is significant. When dealing with much larger sets of data execution time is everyting. It determines how quickly you can submit a report for a business or complete a project for a client. In this case, Steve will be happy to know that the refactored code not only runs faster he can input different stock years, and get the information he needs. One disadvantage I ran into is how precise everything needs to be. Without proper notation, remembering what the code does can become very bad very quickly. In conclusion, refactoring script is a great tool if you remember how your code works.
 
 Below is the two screenshots of the execution times of the year 2017 and 2018:
+Execution Time: 2017
+
+https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/VBA_Challenge%202017.png
+
+Execution Time: 2018
+
 
 
