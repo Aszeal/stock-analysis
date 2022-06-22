@@ -84,10 +84,12 @@ In order to refactor the code I was provided with an alternative code that conta
  Tables(Charts):
  
  This is the table that displays the information for the stock year 2017.
+ 
  https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/All%20Stocks%202017.png
  
  This is the table that displays the information for the stock year 2018.
- https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/All%20Stocks%202018.png
+
+https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/All%20Stocks%202018.png
 
 
 
