@@ -8,7 +8,7 @@ Tasked with the creation of a Macro in *Visual Basic for Applications* for a cli
 
 ### Data and Modeling Approach 
 
-For this project I will be utilizing ### two tables(Charts) #### containing the following information:
+For this project I will be utilizing two tables(Charts) containing the following information:
 
 1. Stock information that includes 12 different stocks 
     ( Ticker value 
