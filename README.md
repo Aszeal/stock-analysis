@@ -81,7 +81,9 @@ In order to refactor the code I was provided with an alternative code that conta
         
     Next i
     
- Tables(Charts):
+
+
+Tables(Charts):
  
  This is the table that displays the information for the stock year 2017.
  
