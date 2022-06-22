@@ -19,7 +19,7 @@ The two tables(Charts) containing the following information:
 
 3. Return 
 
-The reforcted code is showcased to show what imporvements were made to increase effiecency between the original script and the refactoed script. Lastly, the screen shot show the differences between the run-times of the year 2017 and 2018.
+The refactored code is showcased to show what imporvements were made to increase efficiency between the original script and the refactored script. Lastly, the screenshot shows the differences between the run-times of the year 2017 and 2018.
 
 
 
