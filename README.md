@@ -1,4 +1,4 @@
-# stock-analysis
+# stock Analysis with Excel Visual Basic for Applications 
 
 ## Overview of Project
 
