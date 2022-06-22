@@ -14,10 +14,11 @@ For this project I will be utilizing two Tables(Charts) containing the following
     (i. Ticker value 
     ii. Date the Stock was issued 
     iii. Starting and Ending Prices 
-    iiii. Volume
+    iiii. Volume)
+    
 2. Toal Daily Volumne 
 
-3. Return) 
+3. Return 
 
 
 
