@@ -11,10 +11,10 @@ Tasked with the creation of a Macro in *Visual Basic for Applications* for a cli
 For this project I will be utilizing two Tables(Charts) containing the following information:
 
 1. Stock information that includes 12 different stocks 
-    (i. Ticker value 
-    ii. Date the Stock was issued 
-    iii. Starting and Ending Prices 
-    iv. Volume)
+    (I. Ticker value 
+    II. Date the Stock was issued 
+    III. Starting and Ending Prices 
+    IV. Volume)
     
 2. Toal Daily Volumne 
 
