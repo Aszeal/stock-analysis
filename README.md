@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-#Purpose of Project
+# Purpose of Project
 
 Tasked with the creation of a Macro in *Visual Basic for Applications* for a client named Steve. Steve wanted a Macro he could use to analyze data of stocks for multiple years. Steve wanted a Macro that was fast, reliable, and easy to use. After all, he wanted this Macro to help his family make better invesment decisions.
 
