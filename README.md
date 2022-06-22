@@ -24,9 +24,11 @@ For this project I will be utilizing two tables(Charts) containing the following
 
 
 ### Results 
-
-
 #### Analysis 
+
+
+
+
 
     tickerIndex = 0
 
