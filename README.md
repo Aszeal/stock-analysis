@@ -17,8 +17,12 @@ For this project I will be utilizing two Tables(Charts) containing the following
 2. Toal Daily Volumne 
 3. Return 
 
-    
-    
+
+
+
+### Result 
+
+
     tickerIndex = 0
 
     
