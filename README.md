@@ -95,6 +95,6 @@ https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/All%2
 
 ## Summary
 
-### Avantages and Disadvantages of refactoring script
+### Avantages and Disadvantages of Refactoring Script
 
 ### Avantages and Disadvantages of The Original and Refactored VBA Script
