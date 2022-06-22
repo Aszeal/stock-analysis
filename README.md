@@ -24,7 +24,7 @@ The two tables(Charts) contains the following information:
 The refactored code is showcased to show what imporvements were made to increase efficiency between the original script and the refactored script. Lastly, the screenshot shows the differences between the execution times of the year 2017 and 2018.
 
 ## Results
-#### Analysis
+### Analysis
 Refactored Script:
 In order to refactor the code I was provided with an alternative code that contained useful script information to make adjustments to run the code faster. Also, the code provided the necessary information to create an input box that shows the execution times of the original script and refactored script. Below, is the the completed refactored script. 
 
