@@ -96,5 +96,7 @@ https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/All%2
 ## Summary
 
 ### Avantages and Disadvantages of Refactoring Script
+Refactoring is something that can be very beneifical for the efficiency of VBA. Usually, refactoring should be utilized when your code is completely finished and runs correctly. Only then, can you conduct refactoring. Refactoring serves many purposes suchs, improve the speed of execution, more cleaner code, and ease-of-use. Now, refactoring can be harmful if your code is not correctly scripted. User will try to refactor a clients code, but will utterlyubeacause the original code is buggy; resulting in the creation of more bugs in the code. In conclusion, refactoring is a powerful tool that should be utilized once your script is running properly.
+
 
 ### Avantages and Disadvantages of The Original and Refactored VBA Script
