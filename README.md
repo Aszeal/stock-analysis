@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-### Purpose of Project
+## Purpose of Project
 
 Tasked with the creation of a Macro in *Visual Basic for Applications* for a client named Steve. Steve wanted a Macro he could use to analyze data of stocks for multiple years. Steve wanted a Macro that was fast, reliable, and easy to use for the years 2017 and 2018. After all, he wanted this Macro to help his family make better invesment decisions. But in order to accomplish this goal I needed to refactor the code and determine which script preformed the most efficently. 
 
-### Data and Modeling Approach 
+## Data and Modeling Approach 
 The data that I am presenting includes tables, screentshots, and a visual of the refactored code.
 
 
@@ -22,9 +22,8 @@ The two tables(Charts) contains the following information:
 3. Return 
 
 The refactored code is showcased to show what imporvements were made to increase efficiency between the original script and the refactored script. Lastly, the screenshot shows the differences between the run-times of the year 2017 and 2018.
-### Results
 
-
+## Results
 #### Analysis 
 In order to refactor the code I provided with an alternative code that contained useful script information to make adjustments to run the code faster. Also, the code provided the necessary information to create an input box that shows the execution times of the original script and refactored script. Below, is the the completed refactored script. 
 
