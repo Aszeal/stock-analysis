@@ -82,6 +82,8 @@ In order to refactor the code I was provided with an alternative code that conta
     Next i
     
  Tables(Charts):
+ 
+ 
  https://github.com/Aszeal/stock-analysis/blob/main/Resources_VBA_Challenge/All%20Stocks%202017.png
     
 ## Analysis and Challenges
