@@ -7,9 +7,8 @@
 Tasked with the creation of a Macro in *Visual Basic for Applications* for a client named Steve. Steve wanted a Macro he could use to analyze data of stocks for multiple years. Steve wanted a Macro that was fast, reliable, and easy to use for the years 2017 and 2018. After all, he wanted this Macro to help his family make better invesment decisions. But in order to accomplish this goal I needed to refactor the code and determine which script preformed the most efficently. 
 
 ### Data and Modeling Approach 
-
-For this project I will be utilizing two tables(Charts) containing the following information:
-
+The data that I am presenting included tables, screentshots, and a visual of the refactored code.
+The two tables(Charts) containing the following information:
 1. Stock information that includes 12 different stocks 
     ( Ticker value 
     , Date the Stock was issued 
@@ -20,6 +19,7 @@ For this project I will be utilizing two tables(Charts) containing the following
 
 3. Return 
 
+The reforcted code is showcased to show what imporvements were made to increase effiecency between the original script and the refactoed script. Lastly, the screen shot show the differences between the run-times of the year 2017 and 2018.
 
 
 
